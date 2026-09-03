@@ -1,0 +1,6 @@
+{
+  "name": "InstaChaos",
+  "description": "InstaChaos social platform equipped with satirical dark patterns alongside classic features: Posts, Stories, Reels, DMs, Explore, and Profile.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
